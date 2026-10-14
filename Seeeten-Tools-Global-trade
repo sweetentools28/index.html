@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sweeten Tools - Global Trade | Import Export & Trading</title>
+
+    <meta name="description" content="Sweeten Tools Global Trade offers import, export, and trading services for Indian and international markets.">
+
+    <meta name="keywords" content="Sweeten Tools, import export business, global trading, export from India, import from India, international trade">
+
+    <meta name="robots" content="index, follow">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7fb;
+            color: #333;
+        }
+
+        header {
+            background-color: #063970;
+            color: white;
+            text-align: center;
+            padding: 30px 15px;
+        }
+
+        header h1 {
+            font-size: 32px;
+            margin: 0;
+        }
+
+        header p {
+            font-size: 18px;
+        }
+
+        nav {
+            background-color: #111;
+            text-align: center;
+            padding: 14px 5px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 10px;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 25px 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        h2 {
+            color: #063970;
+            text-align: center;
+        }
+
+        .services {
+            background-color: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 8px;
+        }
+
+        .contact {
+            background-color: #e1ecf7;
+            padding: 25px;
+            text-align: center;
+            border-radius: 8px;
+        }
+
+        .button {
+            display: inline-block;
+            background-color: #063970;
+            color: white;
+            padding: 12px 22px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+
+        footer {
+            background-color: #063970;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Sweeten Tools</h1>
+    <p>Global Trade | Import | Export | Trading</p>
+    <p>Your Partner for Global Business Opportunities</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Us</a>
+    <a href="#services">Our Services</a>
+    <a href="#products">Products</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+    <h2>Welcome to Sweeten Tools – Global Trade</h2>
+
+    <p>
+        Sweeten Tools is developing its global trade business to connect
+        Indian products with international markets. We aim to support
+        import, export, sourcing and trading opportunities through
+        reliable business relationships.
+    </p>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+
+    <p>
+        Sweeten Tools – Global Trade is focused on import, export,
+        product sourcing and trading opportunities in India and
+        international markets. Our objective is to build long-term
+        relationships with suppliers, buyers, distributors and
+        business partners.
+    </p>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+
+    <div class="services">
+        <h3>1. Export Services</h3>
+        <p>Exploring opportunities to supply Indian products to overseas buyers.</p>
+    </div>
+
+    <div class="services">
+        <h3>2. Import Services</h3>
+        <p>Supporting product sourcing and import opportunities from international markets.</p>
+    </div>
+
+    <div class="services">
+        <h3>3. Domestic Trading</h3>
+        <p>Connecting manufacturers, wholesalers, distributors and buyers within India.</p>
+    </div>
+
+    <div class="services">
+        <h3>4. Product Sourcing</h3>
+        <p>Helping identify suitable products and potential suppliers for business enquiries.</p>
+    </div>
+</section>
+
+<section id="products">
+    <h2>Products We Are Exploring</h2>
+
+    <div class="services">
+        <ul>
+            <li>Imitation Jewellery and Fashion Accessories</li>
+            <li>Spices and Selected Food Products</li>
+            <li>Home and Kitchen Products</li>
+            <li>Packaging Materials</li>
+            <li>Handicrafts and Gift Items</li>
+            <li>Other Products Based on Buyer Requirements</li>
+        </ul>
+
+        <p>
+            Product availability and export or import arrangements
+            will depend on buyer requirements, supplier availability
+            and applicable regulations.
+        </p>
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+
+    <div class="contact">
+        <p><strong>Company:</strong> Sweeten Tools – Global Trade</p>
+
+        <p>
+            Interested in importing, exporting or trading?
+            Contact us to discuss potential business opportunities.
+        </p>
+
+        <p>
+            <strong>Email:</strong>
+            Add your business email address here
+        </p>
+
+        <p>
+            <strong>Phone:</strong>
+            Add your business contact number here
+        </p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Sweeten Tools – Global Trade. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
